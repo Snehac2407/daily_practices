@@ -13,4 +13,4 @@ def remove_duplicates(sorted_array):
 # Example usage:
 input_array = [1, 1, 2, 2, 3, 3, 3]
 output_array = remove_duplicates(input_array)
-print(output_array)  # Output: [1, 2, 3]
+print(output_array)  
